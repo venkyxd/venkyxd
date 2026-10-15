@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Venky 👋</h1>
 
-<!--
-**venkyxd/venkyxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Cybersecurity Learner | Linux Enthusiast | Future Security Professional
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering / AI student
+- 🔐 Focused on learning Cybersecurity
+- 🐧 Practicing Linux and command-line skills
+- 🌐 Studying networking and system administration
+- 🦅 Building my cybersecurity knowledge through BlackFalcon
+
+## 🛠️ Currently Learning
+
+- Linux
+- Networking
+- CompTIA A+
+- Cybersecurity Fundamentals
+
+## 🎯 Goals
+
+- Build practical cybersecurity labs
+- Develop strong Linux and networking skills
+- Earn industry-recognized certifications
+- Create hands-on security projects
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
